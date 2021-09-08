@@ -15,4 +15,4 @@
 рабочую версию первого задания можно посмотреть на https://jsfiddle.net/EL_Darius/uvg62r98/68/
 
 решение второй задачи в файле 
-goods_with_additional_data.sql
+[goods_with_additional_data.sql](https://github.com/leandr92/telenorma_test_task/blob/main/goods_with_additional_data.sql)
